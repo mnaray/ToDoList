@@ -1,0 +1,5 @@
+D:\SD-Card\VisualStudios\projects\Probe2\Probe2\bin\publish\Probe2.exe
+D:\SD-Card\VisualStudios\projects\Probe2\Probe2\bin\publish\Probe2.dll
+D:\SD-Card\VisualStudios\projects\Probe2\Probe2\bin\publish\Probe2.deps.json
+D:\SD-Card\VisualStudios\projects\Probe2\Probe2\bin\publish\Probe2.runtimeconfig.json
+D:\SD-Card\VisualStudios\projects\Probe2\Probe2\bin\publish\Probe2.pdb
