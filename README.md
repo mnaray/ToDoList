@@ -4,4 +4,4 @@ It was a project for school. One of our very first ones actually. At the moment 
 
 #### Note:
 Please note that the project isn't fully polished and finished. This is quite a bit of code, I didn't really clean it up at all yet. 😅
-The namespace and the class also isn't fully correct. 🙃
+The namespace and the class also isn't a fitting one. 🙃
